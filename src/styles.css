@@ -1,5 +1,5 @@
 body {
-  transition: .2s all ease-in;
+  transition: 0.2s all ease-in;
 }
 
 body.dark {
@@ -8,12 +8,12 @@ body.dark {
 }
 
 body.dark hr {
-  border-top: 1px solid rgba(0,0,0,.9);
+  border-top: 1px solid rgba(0, 0, 0, 0.9);
 }
 
 body.dark .card {
   background: #343a40;
-  border: 1px solid rgba(0,0,0,.875);
+  border: 1px solid rgba(0, 0, 0, 0.875);
 }
 
 .heading {
